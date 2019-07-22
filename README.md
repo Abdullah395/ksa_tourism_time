@@ -1,5 +1,5 @@
 # Tourism Time
-This is my 2019 Diploma's graduation project
+This is my 2019 College graduation project
 - College of Telecomm & Information
 - Software Programming Major
 
